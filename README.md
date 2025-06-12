@@ -1,2 +1,2 @@
-# Gestion-De-Usuarios
-Gestion De Usuarios basico con  php , html,css
+# gestiondeusuarios
+Sistema basico en html, js y css que gestiona usuarios en un sistema.
