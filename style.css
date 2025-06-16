@@ -4,7 +4,7 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 40px;
-  background: blue;
+  background: light blue;
 }
 
 form {
@@ -22,7 +22,7 @@ input {
 
 button {
   padding: 10px;
-  background-color: #6962d4;
+  background-color: black;
   color: white;
   border: none;
   cursor: pointer;
