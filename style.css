@@ -4,7 +4,7 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 40px;
-  background: #6962d4;
+  background: blue;
 }
 
 form {
@@ -12,6 +12,7 @@ form {
   flex-direction: column;
   gap: 10px;
   width: 300px;
+  
 }
 
 input {
