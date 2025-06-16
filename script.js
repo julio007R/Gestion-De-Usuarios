@@ -1,3 +1,5 @@
+// script.js
+// Archivo con la lógica en JavaScript para validar formularios, manejar eventos, etc.
 document.addEventListener("DOMContentLoaded", () => {
   const registerForm = document.getElementById("registerForm");
   const loginForm = document.getElementById("loginForm");
